@@ -61,7 +61,7 @@ layout = [
 
 # Create the GUI
 window = sg.Window(
-    'VTR RDP Console', layout,
+    'THC RDP Manager', layout,
     default_element_size=(30, 2), resizable=True,
     font=('Helvetica', ' 13'),
     icon='icon.ico',
