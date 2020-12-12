@@ -11,6 +11,7 @@
    * Updates registry to trust the publisher
  * Delete RDP files
 <h2>Improvements</h2>
+
  * Make Connection Details column better, it only works half the time
  * Enable editing of RDP files instead of creating
  * Add top bar menu
