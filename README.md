@@ -5,9 +5,9 @@
  * Connect to servers using RDP connection files from the connections/ subdirectory
  * Create RDP files 
    * Encrypts password using Powershell Secure String, saves it in .rdp file
-   * Signs RDP file
    * Creates a self signed cert in the Personal cert store if it doesn't exist
    * Copies the self-signed cert to Trusted Root Certificate Authorities if it doesn't exist
+   * Signs RDP file
    * Updates registry to trust the publisher
  * Delete RDP files
 <h2>Improvements</h2>
