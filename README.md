@@ -1,6 +1,6 @@
 # THC-RDP-Manager
 <h5>This repository contains code for a fairly basic RDP manager, because I've never met an RDP manager I liked.</h5>
-###Main Functions
+### Main Functions
 
  * Connect to servers using RDP connection files from the connections/ subdirectory
  * Create RDP files 
@@ -10,7 +10,7 @@
    * Copies the self-signed cert to Trusted Root Certificate Authorities if it doesn't exist
    * Updates registry to trust the publisher
  * Delete RDP files
-###Improvements
+### Improvements
  * Make Connection Details column better, it only works half the time
  * Enable editing of RDP files instead of creating
  * Add top bar menu
